@@ -1,5 +1,5 @@
 # Animals 10 Data Exploration
-An exploration into the animals 10 dataset.
+An exploration into the [Animals-10](https://www.kaggle.com/datasets/alessiocorrado99/animals10?group=owned) dataset created by Corrado Alessio.
 
 ## Goals
 * Explore Dataset and its characteristics
